@@ -21,6 +21,7 @@ Na Atomus Learn, criamos soluções educacionais voltadas para:
 _1. Tabela Periódica Interativa_
 
 Uma ferramenta educacional que permite aos usuários explorar os elementos químicos de forma visual e interativa🧪.
+
 _2. Jogo de Memória Química_
 
 Um jogo divertido que ajuda a fixar os elementos químicos e suas características através de desafios de memória🔬.
