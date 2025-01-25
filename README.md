@@ -1,40 +1,37 @@
-##Atomus Learn
+## Atomus Learn
 
-Bem-vindo ao repositório oficial da Atomus Learn! Somos uma startup inovadora dedicada a transformar a educação em uma experiência mais dinâmica e divertida através de jogos, sites interativos e outras ferramentas digitais.
+Bem-vindo ao repositório oficial da Atomus Learn! Somos uma startup inovadora dedicada a transformar a educação em uma experiência mais dinâmica e divertida através de jogos, sites interativos e outras ferramentas digitais⚛️.
 
-##Nossa Missão
+## Nossa Missão
 
-Promover o aprendizado de forma acessível, envolvente e interativa, utilizando a tecnologia para despertar a curiosidade e o amor pelo conhecimento.
+Promover o aprendizado de forma acessível, envolvente e interativa, utilizando a tecnologia para despertar a curiosidade e o amor pelo conhecimento📚.
 
-##O que Fazemos
+## O que Fazemos
 
 Na Atomus Learn, criamos soluções educacionais voltadas para:
 
-Jogos Educativos: Tornar o aprendizado uma aventura divertida.
+🎮Jogos Educativos: Tornar o aprendizado uma aventura divertida.
 
-Sites Interativos: Ferramentas online que facilitam o ensino e o aprendizado.
+🖥Sites Interativos: Ferramentas online que facilitam o ensino e o aprendizado.
 
-Apps Inovadores: Experiências personalizadas para diferentes faixas etárias e disciplinas.
+👾Apps Inovadores: Experiências personalizadas para diferentes faixas etárias e disciplinas.
 
-##Projetos Atuais
+## Projetos Atuais
 
-1. Tabela Periódica Interativa
+_1. Tabela Periódica Interativa_
 
-Uma ferramenta educacional que permite aos usuários explorar os elementos químicos de forma visual e interativa.
+Uma ferramenta educacional que permite aos usuários explorar os elementos químicos de forma visual e interativa🧪.
+_2. Jogo de Memória Química_
 
-2. Jogo de Memória Química
+Um jogo divertido que ajuda a fixar os elementos químicos e suas características através de desafios de memória🔬.
 
-Um jogo divertido que ajuda a fixar os elementos químicos e suas características através de desafios de memória.
-
-##Entre em Contato
+## Entre em Contato📞
 
 Se você quiser saber mais sobre a Atomus Learn ou discutir parcerias, nos envie uma mensagem!
 
-Email: contato@atomuslearn.com
+📬Email: atomuslearn@gmail.com
 
-Website: www.atomuslearn.com
-
-Redes sociais: @atomuslearn em todas as plataformas.
+📱Redes sociais: @atomuslearn em todas as plataformas.
 
 Junte-se a nós nessa jornada de transformar o aprendizado com criatividade e tecnologia!
 
